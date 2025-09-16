@@ -1,0 +1,4 @@
+https://stream.radiobahrain.fm/live_stream.mp3
+https://stream.radiobahrain.fm/news_bulletin.mp3
+https://stream.radiobahrain.fm/music_hour.mp3
+https://stream.radiobahrain.fm/sports_update.mp3
